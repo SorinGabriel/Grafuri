@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1426092545 source:e:\poo 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1426092545 source:c:\users\sorin\desktop\poo 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
